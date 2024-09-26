@@ -1,6 +1,6 @@
 
  ## EMMANUEL ANKAPONG **web excercise**
- <body>
+
 <body style="background-color:powderblue;"> ​
 
 
