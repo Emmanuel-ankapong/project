@@ -1,6 +1,15 @@
 
  ##EMMANUEL ANKAPONG **web excercise**
 
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+h1, h2, h3 {
+    color: #0056b3;
+}
+
  Writing in Markdown is _not_ that hard!
  I **will** complete these lessons!
  _"Of course,"_ she whispered. Then, she shouted: "All I need is **a little moxie!"**
