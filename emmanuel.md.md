@@ -1,7 +1,7 @@
 
  ## EMMANUEL ANKAPONG **web excercise**
 
-<html><body></body><body style="background-color:blue;"><h1><font color: blue>lol</font>f</h1></h1></body> ​</html>
+
  Writing in Markdown is _not_ that hard!
  I **will** complete these lessons!
  _"Of course,"_ she whispered. Then, she shouted: "All I need is **a little moxie!"**
