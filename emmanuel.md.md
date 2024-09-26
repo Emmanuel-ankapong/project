@@ -1,14 +1,7 @@
 
  ##EMMANUEL ANKAPONG **web excercise**
 
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
-}
-h1, h2, h3 {
-    color: #0056b3;
-}
+<link rel="stylesheet" type="text/css" href="style.css">
 
  Writing in Markdown is _not_ that hard!
  I **will** complete these lessons!
