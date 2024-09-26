@@ -1,7 +1,7 @@
 
  ##EMMANUEL ANKAPONG **web excercise**
 
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="[style.css](https://github.com/Emmanuel-ankapong/project/blob/main/style.css)">
 
  Writing in Markdown is _not_ that hard!
  I **will** complete these lessons!
